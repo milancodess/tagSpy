@@ -1,0 +1,16 @@
+{
+  "name": "tagspy",
+  "version": "1.0.0",
+  "description": "Extracts mentions from Instagram stories using Puppeteer and Stealth plugin.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^24.10.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "author": "milancodess"
+}
