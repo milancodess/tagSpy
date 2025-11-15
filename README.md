@@ -1,5 +1,7 @@
 # 🕵️‍♂️ tagspy
 
+# ❌ | Instagram structure changed, doesn't work anymore!!
+
 **tagspy** is a stealthy Instagram story mention extractor built with Puppeteer.  
 Wanna see who’s tagged in someone’s Insta story or highlight? Just drop the link and let tagspy sniff out the mentions for you — fast and easy.
 
